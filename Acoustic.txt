@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="vi">
+	<head>
+		<title>ĐÀN GUITAR ACOUSTIC</title>
+		<meta name="description" content="trang giới thiệu, mua bán đàn guitar" />
+		<meta name="keyword" content="dan guitar" />
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="Acoustic.css" />
+	</head>
+	<body>
+		<div id="header">
+			<h1> Đàn Guitar Acoustic</h1>
+			<p> Đàn Guitar Acoustic là dòng đàn chuyên để chơi đệm hát hoặc chơi Fingerstyle, là dòng đàn chủ đạo của Guitar Station tại TPHCM. Với đặc điểm âm thanh vang, sáng, thích hợp để chơi các dòng nhạc trẻ,rock, pop… Rõ ràng, đàn guitar acoustic là lựa chọn quá hoàn hảo cho các bạn trẻ! Guitar Station tin rằng sẽ mang đến cho các bạn trẻ những cây đàn guitar acoustic giá rẻ, chất lượng nhất tại TP HCM và toàn quốc. </p>
+		</div>
+		<div class="row" id="intro">
+				<div id="box1" class="col">	
+				<p>  Đàn Guitar HD981</p>					
+				<img src="http://pianominhthanh.vn/upload/news/dan-guitar-fender-t-bucket-400ce_1.jpg" alt="đàn 1" />
+				<p>2.000.000 VNĐ</p>
+				<p><a href="#"><img src="http://www.healthy-easy.com/vnt_upload/product/Icon/dat_mua.png" alt="đặt hàng"> </a></p>
+				</div>
+				<div id="box2" class="col">	
+				<p>Đàn Acoustic DVE70 (màu gổ) </p>					
+				<img src="http://vn-live-03.slatic.net/p/1/dan-guitar-acoustic-dve70-mau-go-6406-2393272-a632fb5b9795e1cabe917cd7b98d8c30.jpg" alt="đàn 2"/>
+				<p> 2.500.000 VNĐ</p>
+				<p><a href="#"><img src="http://www.healthy-easy.com/vnt_upload/product/Icon/dat_mua.png" alt="đặt hàng"> </a></p>
+				</div>
+				<div id="box3" class="col">	
+				<p> Đàn Guitar Taylor </p>					
+				<img src="http://media.bizwebmedia.net/sites/148786/data/images/2016/7/24593616dan_guitar_lag_t77dce.jpg" alt="đàn 3" />
+				<p> 2.800.000 VNĐ </p>
+				<p><a href="#"><img src="http://www.healthy-easy.com/vnt_upload/product/Icon/dat_mua.png" alt="đặt hàng"> </a></p>
+				</div>
+				<div id="box4" class="col">	
+				<p>Đàn Yamaha CPX500 </p>					
+				<img src="http://danguitar.vn/upload/images/anhphusp/Dan-Acoustic-guitar-CPX500II-mat-troi-toi_447.jpg?width=1000&quality=100" alt="đàn 4" />
+				<p> 3.000.000 VNĐ </p>
+				<p><a href="#"><img src="http://www.healthy-easy.com/vnt_upload/product/Icon/dat_mua.png" alt="đặt hàng"> </a></p>
+				</div>
+		</div>
+		<div class="row" id="intro">
+				<div id="box5" class="col">	
+				<p>Đàn Guitar JAV69 </p>					
+				<img src="http://product.hstatic.net/1000041383/product/dan-acoustic-guitar-salick-d1ce-black_large.jpg" alt="đàn 5" />
+				<p>4.000.000 VNĐ</p>
+				<p><a href="#"><img src="http://www.healthy-easy.com/vnt_upload/product/Icon/dat_mua.png" alt="đặt hàng"> </a></p>
+				</div>
+				<div id="box6" class="col">	
+				<p>Đàn SAMICK D1CE </p>					
+				<img src=" http://hoanghuymusic.com/wp-content/uploads/2016/11/dan-guitar-acoustic-samick-d1ce-nat.jpg" alt="đàn 6"/>
+				<p> 3.500.000 VNĐ</p>
+				<p><a href="#"><img src="http://www.healthy-easy.com/vnt_upload/product/Icon/dat_mua.png" alt="đặt hàng"> </a></p>
+				</div>
+				<div id="box7" class="col">	
+				<p>Đàn Vintage 2017 </p>					
+				<img src="https://images.musicstore.de/images/0960/gibson-l-00-vintage-2017-vs-vintage-sunburst_1_GIT0039536-000.jpg" alt="đàn 7" />
+				<p> 3.800.000 VNĐ </p>
+				<p><a href="#"><img src="http://www.healthy-easy.com/vnt_upload/product/Icon/dat_mua.png" alt="đặt hàng"> </a></p>
+				</div>
+				<div id="box8" class="col">	
+				<p> Đàn AW7012 </p>					
+				<img src=" https://cdn02.static-adayroi.com/resize/502_502/100/0/2015/10/24/1445676247608_3828769.jpg" alt="đàn 8" />
+				<p> 3.700.000 VNĐ </p>
+				<p><a href="#"><img src="http://www.healthy-easy.com/vnt_upload/product/Icon/dat_mua.png" alt="đặt hàng"> </a></p>
+				</div>
+		</div>
+		<div id="tiep"><h3><a href="#"><i> xem thêm>>> </i></a></h3></div>
+		<div class="row1" id="footer">
+			<div id="foot1" class="col1">						
+				<img src="http://r33trucks.com/images/Logo/PhoneIcon.png" alt="số điện thoại" />
+				<p> SĐT: 0123.456.789 </p>
+				<p> Di động: 0935.123.456 </p>
+			</div>
+			<div id="foot2" class="col1">						
+				<img src="https://lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w300" alt="gmail" />
+				<p> Gmail: hoaiphuoc1997@gmail.com </p>
+			</div>
+			<div id="foot3" class="col1">						
+				<img src="http://quatest1.com.vn/templates/default/images/icon_home.png" alt="địa chỉ" />
+				<p> địa chỉ: 45 Nguyễn Lương Bằng, Liên Chiều, tp.Đà Nẵng </p>
+			</div>
+		</div>
+</div>
+</body>
+</html>

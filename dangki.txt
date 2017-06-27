@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="vi">
+	<head>
+		<title> ĐĂNG KÝ </title>
+		<meta name="description" content="trang giới thiệu, mua bán đàn guitar" />
+		<meta name="keyword" content="dan guitar" />
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="log-in.css"/>
+	</head>
+	<body>
+	<h1> ĐĂNG KÍ</h1>
+	<form action="#" method="post" name="dangki">
+		Họ và tên:<br>
+		 <input type="text" name="hoten" > <br />
+		Gmail: <br> 
+		 <input type="text" name="gmail"> <br />
+		Tên tài khoản:<br>
+		 <input type="text" name="tenid" > <br />
+		Mật khẩu: <br> 
+		 <input type="password" name="password"> <br />
+		Nhập lại mật khẩu:<br>
+		 <input type="password" name="password2"> <br />
+		<input type="radio" name="gender" value="male" checked> Male<br/>
+ 		<input type="radio" name="gender" value="female"> Female<br/>
+  		<input type="radio" name="gender" value="other"> Other <bt />
+  		<p> <input type="submit" value="đăng kí"> </p>
+  		<p> <a href="dangnhap.html"> <i>Đã có tài khoản click vào đây!!<i></a></p>
+	</form>
+	</body>
+</html>

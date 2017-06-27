@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="vi">
+	<head>
+		<title>ĐÀN GUITAR</title>
+		<meta name="description" content="trang giới thiệu, mua bán đàn guitar" />
+		<meta name="keyword" content="dan guitar" />
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="abc.css" />
+	</head>
+	<body>
+		<div id="container">
+			<div id="header">
+				<span id="logo"><img src="http://guitarbadon.vn/Image/Layout/logo2.png" alt="mua bán đàn guitar" ></span>
+				<span id="slogan">
+						<a>GUITAR STATION </a>
+						<h1><i>NOTHING BUT PASSION</i></h1></span>
+				<form class="searchform" action="" method="get">
+					<input class="s" onfocus="if (this.value == 'Search this website …') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search this website …';}" type="text" name="s" value="Search this website …" />
+					<input class="searchsubmit" type="submit" value="Search" />
+				</form>
+			</div>
+			<div id="menu">
+				<ul>
+					<li> <a href="#"> TRANG CHỦ </a></li>
+					<li>
+						<a href="#"> GIỚI THIỆU </a>
+						<ul class="sub-menu">
+							<li><a href="#">Chế độ bảo hành</li>
+							<li><a href="#">Thông tin khuyến mãi</li>
+						</ul>
+					</li>
+					<li> 
+						<a href="#"> TỰ HỌC ĐÀN </a>
+						<ul class="sub-menu">
+							<li><a href="#"> Guitar cơ bản</a></li>
+							<li><a href="#"> Guitar nâng cao</a></li>
+							<li><a href="#"> cảm hứng guitar</a></li>
+							<li><a href="#"> Hợp âm guitar</a></li>
+							<li><a href="#"> Tư vấn mua đàn</a></li>
+						</ul>
+					</li>
+					<li> 
+						<a href="#"> TÀI KHOẢN </a>
+						<ul class="sub-menu">
+							<li><a href="dangnhap.html"> Đăng nhập </a></li>
+							<li><a href="dangki.html"> Đăng kí </a></li>
+						</ul>
+					</li>
+					<li> <a href="#"> LIÊN HỆ </a></li>
+				</ul>
+			</div>
+			<div id="content">
+				<div id="cau-ngo">
+					<h2> Không chỉ là sở thích mà còn là đam mê </h2>
+					<p> "Chúng tôi thường gọi Guitar Station đơn giản là một"sản phẩm của đam mê" bởi khi thành lập ra Guitar Station thì mục đích đầu tiên của chúng tôi đó là mong muốn được chia sẻ đam mê và được sống với đam mê. Chính vì vậy nên chúng tôi mới chọn slogan của Guitar Station là "Nothing but Passion" (Không gì ngoài đam mê)- đây cũng là slogan của câu lạc bộ guitar đả thổi lửa đam mê cho chúng tôi thời sinh viên! Với mong muốn được chia sẻ đam mê và niềm vui âm nhạc đến mọi người nên chúng tôi luôn cố gắng đem đến cho khách hàng cây guitar tốt nhất trong tầm giá đi kèm với dịch vụ hổ trợ bảo trì trọn đời và đó cũng chính là sứ mệnh của Guitar Station!" </p>
+				</div>
+				<div id="nothing">
+					<p>VÌ SAO NÊN CHỌN GUITAR STATION?</p>
+				</div>
+				<div class="row" id="intro">
+					<div id="box1" class="col">						
+						<img src="https://previews.123rf.com/images/carmenbobo/carmenbobo1312/carmenbobo131200290/24472260-Best-quality-guaranteed-golden-label-vector-illustration-Stock-Vector.jpg" alt="chất lượng đảm bảo" title="Chất lượng đảm bảo" />
+						<h3> Chất lượng đảm bảo </h3>
+						<p> Guitar Station luôn đặt uy tín và chất lượng lên hàng đầu. Chúng tôi cam kết sẽ đem đến những cây đàn chất lượng cao nhất!</p>
+					</div>
+					<div id="box2" class="col">					
+						<img src="https://thamtuhungthinh.com/wp-content/uploads/2016/04/gia-tot-nhat.png" alt="Giá cả phải chăng" title="giá cả phải chăng" />
+						<h3> Giá cả phải chăng </h3>
+						<p> Với mong muốn tạo điều kiện cho tất cả mọi người đều được chơi guitar, chúng tôi luôn giữ mức giá cạnh tranh và phải chăng. Các bạn sẽ không lo bị hố hay phải trả giá cao nhé! </p>
+					</div>
+					<div id="box3" class="col">
+						<img src="http://giaiphapvanphong.vn/Image/Picture/Doitac/qui-dinh-bao-hanh.jpg" alt="Bảo hành trọn đời" title="Bảo hành trọn đời" />
+						<h3> Bào hành trọn đời </h3>
+						<p> Bạn có thể yên tâm chơi đàn với chế độ bảo hành trọn đời của chúng tôi, chúng tôi sẽ luôn đảm bảo cây đàn của bạn trong tình trạng tốt nhất! </p>
+					</div>
+				</div>
+			</div>
+			<div id="danh-muc">
+				<p> DANH MỤC</p>
+				<ul>
+					<li><a href="Acoustic.html">Đàn Guitar Acoustic</a></li>
+					<li><a href="#">Đàn Guitar cho người mới tập</a></li>
+					<li><a href="#">Đàn Guitar cao cấp</a></li>
+					<li><a href="#">Đàn Guitar Classic</a></li>
+					<li><a href="#">Phụ kiện Guitar</a></li>
+					<li><a href="#">Đàn Ukulele</a></li>
+				</ul>
+			</div>
+			<div id="danh-muc">
+				<p> TIN TỨC </p>
+				<ul>
+					<li><a href="#">Sự kiện âm nhạc </a></li>
+					<li><a href="#">Nghệ sĩ trẻ</a></li>
+					<li><a href="#">Địa điểm Acoustic</a></li>
+					<li><a href="#">Sản phẩm mới</a></li>
+					<li><a href="#">Nhận xét của khách hàng</a></li>
+				</ul>
+			</div>
+			<div id="cau-chot">
+					<h2> BẠN MUỐN LIÊN HỆ VỚI CHÚNG TÔI ? </h2>
+					<p><a href="#"> Liên hệ ngay và luôn! </a></p>
+				</div> 
+			<div class="row" id="footer">
+				<div id="foot1" class="col">						
+					<img src="http://r33trucks.com/images/Logo/PhoneIcon.png" alt="số điện thoại" />
+					<p> SĐT: 0123.456.789 </p>
+					<p> Di động: 0935.123.456 </p>
+				</div>
+				<div id="foot2" class="col">						
+					<img src="https://lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w300" alt="gmail" />
+					<p> Gmail: hoaiphuoc1997@gmail.com </p>
+				</div>
+				<div id="foot3" class="col">						
+					<img src="http://quatest1.com.vn/templates/default/images/icon_home.png" alt="địa chỉ" />
+					<p> địa chỉ: 45 Nguyễn Lương Bằng, Liên Chiều, tp.Đà Nẵng </p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
