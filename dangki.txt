@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="vi">
 	<head>
 		<title> ĐĂNG KÝ </title>
@@ -11,11 +11,11 @@
 	<h1> ĐĂNG KÍ</h1>
 	<form action="#" method="post" name="dangki">
 		Họ và tên:<br>
-		 <input type="text" name="hoten" > <br />
+		 Huynh Hoai Phuoc
 		Gmail: <br> 
 		 <input type="text" name="gmail"> <br />
 		Tên tài khoản:<br>
-		 <input type="text" name="tenid" > <br />
+		 0935006517s
 		Mật khẩu: <br> 
 		 <input type="password" name="password"> <br />
 		Nhập lại mật khẩu:<br>
