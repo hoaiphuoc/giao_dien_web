@@ -22,7 +22,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 	<head>
-		<title> ĐĂNG NHẬP </title>
+		<title> Hoai Phuoc </title>
 		<meta name="description" content="trang giới thiệu, mua bán đàn guitar" />
 		<meta name="keyword" content="dan guitar" />
 		<meta charset="utf-8" />
