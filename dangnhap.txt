@@ -1,3 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+	<head>
+		<title> ĐĂNG NHẬP </title>
+		<meta name="description" content="trang giới thiệu, mua bán đàn guitar" />
+		<meta name="keyword" content="dan guitar" />
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="log-in.css"/>
+	</head>
+	<body>
+	<h1> ĐĂNG NHẬP</h1>
+	<form action="baitap.html" method="post" name="dangnhap">
+		Tên tài khoản:<br>
+		 <input type="text" name="tenid" > <br />
+		Mật khẩu: <br> 
+		 <input type="password" name="password"> <br />
+		<p><input type="submit" value="Đăng nhập" ></p>
+	</form>
+	</body>
+</html>
+
 <!DOCTYPE html>
 <html lang="vi">
 	<head>
